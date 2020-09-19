@@ -18,7 +18,8 @@ Currently in the game, we have 3 different difficultys:
 In this Repo, contains .exe files for you to download and be able to play our game on:
 - Linux, arm64
 - Linux, armv6hf
-- Linux, 32
-- Linux, 64
-- Windows, 32
-- Windoes, 64
+- Linux 32-bit
+- Linux 64-bit
+- Windows 32-bit
+- Windoes 64-bit
+- Mac, as linked above (experimental)
