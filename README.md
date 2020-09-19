@@ -1,7 +1,7 @@
 # Survivor League
 
 <p align="center">
-  <img width="460" height="300" src="https://giphy.com/gifs/KMfl3k96LVjCAdpBHU/html5">
+  <img width="460" height="300" src="https://media.giphy.com/media/KMfl3k96LVjCAdpBHU/giphy.gif">
 </p>
 
 TODO - Redo Read Me
