@@ -13,4 +13,7 @@ Survivor League is a processing (Java) based game in which you are a fish in a v
 Currently in the game, we have 3 different difficultys:
 - Easy, easiest difficulty of the game, however is still notoriously hard to win the game and as a result, considered the default setting for all fish
 - Medium, while it is a step up from easy, hostile fish not only become faster but their movements become even more random as well
-- Hard, the hardiest difficulty of the game, currently to date, no one has been able to beat the game on hardmode due to the intelligence system implemented. The system implemented, not only ensures that smaller fish die faster but also a higher likelihood that large fish that can eat you spawn on top of you potentially killing you instantly
+- Hard, the hardiest difficulty of the game, currently to date, no one has been able to beat the game on hardmode due to the intelligence system implemented. The system implemented, not only ensures that smaller fish die faster but also a higher likelihood that large fish that can eat you spawn on top of you potentially killing you instantly. Can you beat it?
+
+In this Repo, contains .exe files for you to download and be able to play our game on:
+- 
