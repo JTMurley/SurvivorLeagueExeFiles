@@ -16,4 +16,9 @@ Currently in the game, we have 3 different difficultys:
 - Hard, the hardiest difficulty of the game, currently to date, no one has been able to beat the game on hardmode due to the intelligence system implemented. The system implemented, not only ensures that smaller fish die faster but also a higher likelihood that large fish that can eat you spawn on top of you potentially killing you instantly. Can you beat it?
 
 In this Repo, contains .exe files for you to download and be able to play our game on:
-- 
+- Linux, arm64
+- Linux, armv6hf
+- Linux, 32
+- Linux, 64
+- Windows, 32
+- Windoes, 64
