@@ -1,4 +1,4 @@
-# SurvivorLeagueExeFiles
+# Survivor League
 
 TODO - Redo Read Me
 
