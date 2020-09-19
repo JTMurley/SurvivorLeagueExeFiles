@@ -1,4 +1,4 @@
-# Survivor League
+# Survivor League (Discontinued Project)
 
 <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/KMfl3k96LVjCAdpBHU/giphy.gif">
@@ -24,3 +24,5 @@ In this Repo, contains .exe files for you to download and be able to play our ga
 - Windows 32-bit
 - Windoes 64-bit
 - Mac, as linked above (experimental)
+
+## Developers
