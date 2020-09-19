@@ -1,4 +1,4 @@
-# Survivor League (Discontinued Project)
+# Survivor League (Discontinued)
 
 <p align="center">
   <img width="460" height="300" src="https://media.giphy.com/media/KMfl3k96LVjCAdpBHU/giphy.gif">
@@ -26,3 +26,5 @@ In this Repo, contains .exe files for you to download and be able to play our ga
 - Mac, as linked above (experimental)
 
 ## Developers
+- Jack Murley
+- Zac Nicolle
