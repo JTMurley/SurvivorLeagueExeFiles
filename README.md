@@ -11,6 +11,6 @@ MacOs Download - https://drive.google.com/file/d/1BUEwqsFRvFdrQKyqRkPiW-GE7r6lZK
 Survivor League is a processing (Java) based game in which you are a fish in a virtual aquarium and need to survive by avoiding fish larger than you while still growing in size to eventually become the apex predator in the virtual aquarium.
 
 Currently in the game, we have 3 different difficultys:
-- Easy
-- Medium
-- Hard
+- Easy, easiest difficulty of the game, however is still notoriously hard to win the game and as a result, considered the default setting for all fish
+- Medium, while it is a step up from easy, hostile fish not only become faster but their movements become even more random as well
+- Hard, the hardiest difficulty of the game, currently to date, no one has been able to beat the game on hardmode due to the intelligence system implemented. The system implemented, not only ensures that smaller fish die faster but also a higher likelihood that large fish that can eat you spawn on top of you potentially killing you instantly
